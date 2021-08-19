@@ -1,3 +1,3 @@
 '''
-https://NgocNood.github.io/tang-crush/
+https://"name".github.io/tang-crush/
 '''
